@@ -14,5 +14,10 @@ https://public.tableau.com/views/NYCitiBikesStationsDurationsStory/storyCITIBIKE
 maps
 https://public.tableau.com/app/profile/ryan4850/viz/TopTenStartEndStationsByTripDuration/Story1 /
 https://public.tableau.com/app/profile/ryan4850/viz/citimapstartstations/Sheet1 /
-https://public.tableau.com/app/profile/ryan4850/viz/citimapendtstations/Sheet2
+https://public.tableau.com/app/profile/ryan4850/viz/citimapendtstations/Sheet2 /
+
+if any of the individual links are not working please just try my profile
+https://public.tableau.com/profile/ryan4850#!/
+
+THANK YOU!
 
