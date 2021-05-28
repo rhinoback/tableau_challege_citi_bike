@@ -10,3 +10,7 @@ https://public.tableau.com/app/profile/ryan4850/viz/NYCitiBikesStationsDurations
 
 story
 https://public.tableau.com/views/NYCitiBikesStationsDurationsStory/storyCITIBIKES?:language=en-US&:display_count=n&:origin=viz_share_link
+
+maps
+https://public.tableau.com/app/profile/ryan4850/viz/citimapstartstations/Sheet1
+https://public.tableau.com/app/profile/ryan4850/viz/citimapendtstations/Sheet2
